@@ -1,5 +1,5 @@
 # Python-for-Machine-Learning
-<p> I'm making notes of python for machine learning for myself, but it may be helpful for others so keeping it public. 😜 </p>
+<p> I'm making notes of python for machine learning for myself, thought may be helpful for others so keeping it public. 😜 </p>
 
 - I am using Jupyter Notebook 📒 here, because it is more convinent and provides better environment to work with machine learning and data science.
 - 📂 All files will be in ***.ipynb*** format so use Jupyter lab/notebook (A part of anaconda) to avail my code. 😁
